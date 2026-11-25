@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts the most likely disease based on user-selected symptoms.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+![screenshot](diseasePredictor.png)
 
 ---
 
